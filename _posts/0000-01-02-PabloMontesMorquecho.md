@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+HuertAPP : $ Growing Cities
 Use the left arrow to go back!
